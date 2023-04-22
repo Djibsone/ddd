@@ -171,10 +171,10 @@ form input[type="submit"]:hover{
   background: linear-gradient(rgba(45, 10, 4, 0.4), transparent), url('../image/m.jpg') fixed center/cover;
 }
 .register{
-  background: linear-gradient(rgba(45, 10, 4, 0.4), transparent), url('../image/d.jpg') center center no-repeat;
+  background: linear-gradient(rgba(45, 10, 4, 0.4), transparent), url('../image/d.jpg') fixed center/cover;
 }
 .forgot{
-  background: linear-gradient(rgba(45, 10, 4, 0.4), transparent), url('../image/h.jpg') center center no-repeat;/*eiz*/
+  background: linear-gradient(rgba(45, 10, 4, 0.4), transparent), url('../image/h.jpg') fixed center/cover;/*eiz*/
 }
 
 @media screen and (max-width: 477px) {
