@@ -168,7 +168,7 @@ form input[type="submit"]:hover{
   border-color: #ebccd1
 }
 .login{
-  background: linear-gradient(rgba(45, 10, 4, 0.4), transparent), url('../image/m.jpg') center center no-repeat;
+  background: linear-gradient(rgba(45, 10, 4, 0.4), transparent), url('../image/m.jpg') fixed center/cover;
 }
 .register{
   background: linear-gradient(rgba(45, 10, 4, 0.4), transparent), url('../image/d.jpg') center center no-repeat;
